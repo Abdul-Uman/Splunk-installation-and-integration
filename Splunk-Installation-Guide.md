@@ -8,6 +8,7 @@ This guide will walk you through the process of downloading and installing  Splu
 
 - A compatible operating system (Windows, macOS, Linux)
 - Administrator privileges on your machine
+- For Now In this guide i prefered for Windows operating system 
 
 ## Step 1: Download Splunk
 
