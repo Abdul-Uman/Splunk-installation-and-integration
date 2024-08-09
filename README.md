@@ -45,7 +45,9 @@ https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Devi
 
 Set up Syslog on Linux systems to forward logs to Splunk.
 
-[Read the Syslog Integration Guide](integration/syslog/syslog-integration-guide.md)
+[Read the Syslog Integration Guide]
+
+https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20SYSLOG
 
 ### Universal Forwarder (Windows)
 
