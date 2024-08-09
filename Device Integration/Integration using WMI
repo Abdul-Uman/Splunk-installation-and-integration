@@ -1,1 +1,35 @@
+# WMI Integration Guide
+
+This guide provides step-by-step instructions for integrating Windows systems with Splunk using WMI (Windows Management Instrumentation).
+
+## Prerequisites
+
+- Splunk installed and running
+- Administrator access on the Windows machine
+
+![Screenshot (1)](https://github.com/user-attachments/assets/35a9bc40-5181-4c3f-8a99-50b22632c6e0)
+
+## Step 1: Enable WMI on Windows
+
+1. Open the Services management console (`services.msc`).
+2. Locate the `Windows Management Instrumentation` service.
+3. Ensure the service is running and set to start automatically.
+
+
+
+## Step 2: Configure WMI Inputs in Splunk
+
+1. Log in to the Splunk Web interface.
+2. Go to **Settings > Data Inputs > WMI**.
+3. Click **New** to create a new WMI input.
+4. Select the appropriate WMI class and configure the input settings.
+
+![WMI Input Configuration](screenshots/wmi-input.png)
+
+## Step 3: Verify Data Collection
+
+1. Go to **Search & Reporting** in Splunk.
+2. Run a search to verify that data from the Windows machine is being collected.
+
+![Verify WMI Data](screenshots/verify-wmi-data.png)
 
