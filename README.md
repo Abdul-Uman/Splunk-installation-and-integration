@@ -29,7 +29,7 @@ The installation guide covers:
 
 [Read the Installation Guide]
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Splunk-Installation-Guide.md
+https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Splunk-Installation-Guide(Windows).md
 
 ## Device Integration
 
