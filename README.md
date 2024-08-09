@@ -41,7 +41,8 @@ Learn how to integrate Windows devices with Splunk using Windows Management Inst
 
 [Read the WMI Integration Guide]
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20WMI
+https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20WMI.md
+
 
 ### Syslog Integration (Linux)
 
