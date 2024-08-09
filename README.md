@@ -55,13 +55,15 @@ https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Devi
 
 Deploy the Universal Forwarder on Windows to send logs to Splunk.
 
-[Read the Universal Forwarder (Windows) Guide](integration/universal-forwarder-windows/uf-windows-guide.md)
+[Read the Universal Forwarder (Windows) Guide]
 
 ### Universal Forwarder (Linux)
 
 Deploy the Universal Forwarder on Linux to send logs to Splunk.
 
-[Read the Universal Forwarder (Linux) Guide](integration/universal-forwarder-linux/uf-linux-guide.md)
+[Read the Universal Forwarder (Linux) Guide]
+
+https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20Universal%20Forwarder(Linux)
 
 ## Contributing
 
