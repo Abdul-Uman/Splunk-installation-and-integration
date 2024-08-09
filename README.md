@@ -27,9 +27,13 @@ The installation guide covers:
 - Installing Splunk on your system
 - Initial setup and configuration
 
-[Read the Installation Guide]
+**Splunk Installation Guide(Windows)**
 
 https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Splunk-Installation-Guide(Windows).md
+
+**Splunk Insallation Guide(Linux)**
+
+https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Splunk-Installation-Guide(Linux).md
 
 ## Device Integration
 
