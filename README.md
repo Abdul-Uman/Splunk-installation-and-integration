@@ -37,7 +37,9 @@ After installing Splunk, you can proceed to integrate different devices:
 
 Learn how to integrate Windows devices with Splunk using Windows Management Instrumentation (WMI).
 
-[Read the WMI Integration Guide](integration/wmi/wmi-integration-guide.md)
+[Read the WMI Integration Guide]
+
+https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20WMI
 
 ### Syslog Integration (Linux)
 
