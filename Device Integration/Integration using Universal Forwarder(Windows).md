@@ -13,7 +13,8 @@ This guide provides step-by-step instructions for installing and configuring the
 2. Select the version that matches your Windows operating system.
 3. Download the installer.
 
-![Download UF](screenshots/download-uf.png)
+![Download UF]![Screenshot (7)](https://github.com/user-attachments/assets/e8f88889-7435-4675-9a4f-b1f87de36df3)
+
 
 ## Step 2: Install the Universal Forwarder
 
