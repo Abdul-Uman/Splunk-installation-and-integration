@@ -13,35 +13,67 @@ This guide provides step-by-step instructions for installing and configuring the
 2. Select the version that matches your Windows operating system.
 3. Download the installer.
 
-![Download UF]![Screenshot (7)](https://github.com/user-attachments/assets/e8f88889-7435-4675-9a4f-b1f87de36df3)
+![Download Univerasal Forwarder](https://github.com/user-attachments/assets/e8f88889-7435-4675-9a4f-b1f87de36df3)
+
+## Step 2: Configure Receiving Data Port on Heavy Forwarder on which we want to Receive the logs from Windows Universal Forwarder
+
+1. Login to Heavy Forwarder
+2. Go to **Settings > Forwarding and Receiving > Configure Receving**.
+3. Use **9997 Data port** and **Save it**.
+
+![Screenshot (8)](https://github.com/user-attachments/assets/c5f9df6b-a6c4-41d7-a87d-cc8350ffd177)
 
 
-## Step 2: Install the Universal Forwarder
+
+## Step 3: Install the Universal Forwarder
 
 1. Run the downloaded installer as an administrator.
 2. Follow the on-screen prompts to install the Universal Forwarder.
-3. During installation, specify the Splunk Indexer or Heavy Forwarder to send the data.
+3. During installation,
 
-![Install UF](screenshots/install-uf.png)
+   ## Select Account and Click on Next.
+   ![Screenshot (10)](https://github.com/user-attachments/assets/44f4c9da-f71e-4dfc-8fc2-8b6d7bc1eed8)
 
-## Step 3: Configure Inputs on the Universal Forwarder
+   ## Select Inputs you want to collect from Windows end point.
+   
+   ![Screenshot (11)](https://github.com/user-attachments/assets/c3f65332-f382-4985-9a7d-40f21d13b100)
 
-1. Open the Universal Forwarder configuration file (usually located in `C:\Program Files\SplunkUniversalForwarder\etc\system\local\inputs.conf`).
-2. Add the paths to the log files or directories you want to monitor.
+   ## Create Credentials and Click on Next.
 
-![Configure UF](screenshots/configure-uf.png)
+   ![Screenshot (12)](https://github.com/user-attachments/assets/a2325808-733b-42f0-b589-e9f2a66395aa)
 
-## Step 4: Start the Universal Forwarder Service
+   ## Specify Deployment Server Ip address or Hostname and Port No.
 
-1. Open the Services management console (`services.msc`).
-2. Locate the `SplunkForwarder` service.
-3. Start the service and set it to start automatically.
+   ![Screenshot (13)](https://github.com/user-attachments/assets/813dca04-cf39-41db-8ca2-93dc75047087)
 
-![Start UF Service](screenshots/start-uf-service.png)
+   ## Specify the Splunk Indexer or Heavy Forwarder to send the data.
+   
+   ![Screenshot (14)](https://github.com/user-attachments/assets/909dcf56-60af-46e3-96d7-e5478ee248aa)
 
-## Step 5: Verify Data is Being Sent
+   ## Click on Install.
 
-1. Log in to your Splunk Indexer or Heavy Forwarder.
-2. Use the Search app to verify that data from the Universal Forwarder is being received.
+   ![Screenshot (15)](https://github.com/user-attachments/assets/c010034c-6c5b-4ff0-a5be-da4545ab49aa)
 
-![Verify Data](screenshots/verify-data.png)
+   ## Finish Installation.
+   
+   ![Screenshot (16)](https://github.com/user-attachments/assets/855f2488-11ce-408b-8f73-10171fe0e49b)
+
+
+## Step 4: Verify Data Collection.
+
+   1.Go to Search & Reporting in Splunk Heavy Forwarder.
+   
+   2.Write a search Query to verify that data from the Windows Universal Forwarder machine is being 
+     collected.
+
+   ![Screenshot (17)](https://github.com/user-attachments/assets/d269bee5-97e8-4d59-9254-c0e9f21e5706)
+
+  
+## If Logs are generating it means "Integration is Successfull".
+
+
+
+
+
+
+
