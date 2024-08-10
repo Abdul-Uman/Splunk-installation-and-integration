@@ -54,7 +54,8 @@ Set up Syslog on Linux systems to forward logs to Splunk.
 
 [Read the Syslog Integration Guide]
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20SYSLOG
+https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20SYSLOG.md
+
 
 ### Universal Forwarder (Windows)
 
