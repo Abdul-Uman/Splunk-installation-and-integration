@@ -71,7 +71,7 @@ Deploy the Universal Forwarder on Linux to send logs to Splunk.
 
 [Read the Universal Forwarder (Linux) Guide]
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20Universal%20Forwarder(Linux)
+https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20Universal%20Forwarder(Linux).md
 
 ## Contributing
 
