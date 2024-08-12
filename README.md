@@ -29,11 +29,11 @@ The installation guide covers:
 
 **Splunk Installation Guide(Windows)**
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Splunk-Installation-Guide(Windows).md
+<a href="https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Splunk-Installation-Guide(Windows).md">Splunk Installation Guide(Windows)</a>
 
-**Splunk Insallation Guide(Linux)**
+**Splunk Installation Guide(Linux)**
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Splunk-Installation-Guide(Linux).md
+<a href="https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Splunk-Installation-Guide(Linux).md">Splunk Insallation Guide(Linux)</a>
 
 ## Device Integration
 
@@ -45,7 +45,7 @@ Learn how to integrate Windows devices with Splunk using Windows Management Inst
 
 [Read the WMI Integration Guide]
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20WMI.md
+<a href="https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20WMI.md">WMI Integration (Windows)</a>
 
 
 ### Syslog Integration (Linux)
@@ -54,7 +54,8 @@ Set up Syslog on Linux systems to forward logs to Splunk.
 
 [Read the Syslog Integration Guide]
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20SYSLOG.md
+<a href="https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20SYSLOG.md">Syslog Integration (Linux)</a>
+
 
 
 ### Universal Forwarder (Windows)
@@ -63,7 +64,7 @@ Deploy the Universal Forwarder on Windows to send logs to Splunk.
 
 [Read the Universal Forwarder (Windows) Guide]
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20Universal%20Forwarder(Windows).md
+<a href="https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20Universal%20Forwarder(Windows).md">Universal Forwarder (Windows)</a>
 
 ### Universal Forwarder (Linux)
 
@@ -71,7 +72,7 @@ Deploy the Universal Forwarder on Linux to send logs to Splunk.
 
 [Read the Universal Forwarder (Linux) Guide]
 
-https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20Universal%20Forwarder(Linux).md
+<a href="https://github.com/Abdul-Uman/Splunk-installation-and-integration/blob/main/Device%20Integration/Integration%20using%20Universal%20Forwarder(Linux).md">Universal Forwarder (Linux)</a>
 
 ## Contributing
 
